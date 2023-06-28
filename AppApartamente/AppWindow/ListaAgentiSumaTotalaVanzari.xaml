@@ -1,0 +1,37 @@
+﻿<Window x:Class="AppApartamente.AppWindow.ListaAgentiSumaTotalaVanzari"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppApartamente.AppWindow"
+        mc:Ignorable="d"
+        Title="ListaAgentiSumaTotalaVanzari" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Background="LightBlue">
+            <TextBlock Text="Lista agenților și suma totală de vânzări acumulată de fiecare din ei" Foreground="DarkBlue" 
+                       FontSize="20" FontWeight="Bold" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <DataGrid x:Name="dgListaAgentiSumaVanzari" AutoGenerateColumns="False" Margin="10" 
+                      FontSize="20" IsReadOnly="False" ItemsSource="{Binding Agenti}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding Agent.CodAgent}" MinWidth="50"/>
+                    <DataGridTextColumn Header="Numele" Binding="{Binding Agent.Nume}" MinWidth="150"/>
+                    <DataGridTextColumn Header="Prenumele" Binding="{Binding Agent.Prenume}" MinWidth="150"/>
+                    <DataGridTextColumn Header="Varsta" Binding="{Binding Agent.Varsta}" MinWidth="80"/>
+                    <DataGridTextColumn Header="Telefonul" Binding="{Binding Agent.Telefon}" MinWidth="120"/>
+                    <DataGridTextColumn Header="Suma totala de vanzari" Binding="{Binding SumaTotalVanzari}" MinWidth="150"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

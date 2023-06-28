@@ -1,0 +1,20 @@
+﻿AppApartamente
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\
+AppApartamente
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\App.xaml
+81296433828
+
+181073924607
+212-235735100
+AppWindow\AgentWindow.xaml;AppWindow\ApartamentWindow.xaml;AppWindow\ListaAgentiSumaTotalaVanzari.xaml;AppWindow\ListaAgentiVarstaTelefon.xaml;AppWindow\ListaAgentiWindow.xaml;AppWindow\ListaApartamenteWindow.xaml;AppWindow\ListaApartPatruCamere.xaml;MainWindow.xaml;
+
+True
+

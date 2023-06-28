@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AppWindow\AgentWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AppWindow\ApartamentWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AppWindow\ListaAgentiSumaTotalaVanzari.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AppWindow\ListaAgentiVarstaTelefon.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AppWindow\ListaAgentiWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AppWindow\ListaApartamenteWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AppWindow\ListaApartPatruCamere.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AppWindow\AgentWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AppWindow\ApartamentWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AppWindow\ListaAgentiSumaTotalaVanzari.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AppWindow\ListaAgentiVarstaTelefon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AppWindow\ListaAgentiWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AppWindow\ListaApartamenteWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AppWindow\ListaApartPatruCamere.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

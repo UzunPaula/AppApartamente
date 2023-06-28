@@ -1,0 +1,154 @@
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.exe
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.deps.json
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.runtimeconfig.json
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\ref\AppApartamente.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.pdb
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente_MarkupCompile.cache
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente_MarkupCompile.lref
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.g.resources
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.AssemblyInfoInputs.cache
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.AssemblyInfo.cs
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.csproj.CoreCompileInputs.cache
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.csproj.CopyComplete
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\ref\AppApartamente.dll
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.pdb
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.genruntimeconfig.cache
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.csproj.AssemblyReference.cache
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\AgentWindow.g.cs
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaAgentiWindow.g.cs
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ApartamentWindow.g.cs
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaApartamenteWindow.g.cs
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\AgentWindow.baml
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaAgentiWindow.baml
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ApartamentWindow.baml
+C:\Users\PC21407\Desktop\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaApartamenteWindow.baml
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.csproj.AssemblyReference.cache
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\AgentWindow.g.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ApartamentWindow.g.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaAgentiWindow.g.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaApartamenteWindow.g.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\App.g.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente_MarkupCompile.cache
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente_MarkupCompile.lref
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.pdb
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.exe
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.deps.json
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.runtimeconfig.json
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\AppApartamente.pdb
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\AgentWindow.baml
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ApartamentWindow.baml
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaAgentiWindow.baml
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaApartamenteWindow.baml
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\MainWindow.baml
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.g.resources
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.GeneratedMSBuildEditorConfig.editorconfig
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.AssemblyInfoInputs.cache
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.AssemblyInfo.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.csproj.CoreCompileInputs.cache
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.csproj.CopyComplete
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\refint\AppApartamente.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppApartamente.genruntimeconfig.cache
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\ref\AppApartamente.dll
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaApartPatruCamere.g.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaApartPatruCamere.baml
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaAgentiVarstaTelefon.g.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaAgentiVarstaTelefon.baml
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaAgentiSumaTotalaVanzari.g.cs
+D:\COLEGIU 2022-2023\Dezvoltarea aplicatiilor Desktop\Apartamente-20230316T152025Z-001\Apartamente\AppApartamente\obj\Debug\net6.0-windows\AppWindow\ListaAgentiSumaTotalaVanzari.baml
